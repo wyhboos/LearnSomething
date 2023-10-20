@@ -1,0 +1,2 @@
+/home/wyh/Code/LearnSomething/Cmake/build/CMakeFiles/rebuild_cache.dir
+/home/wyh/Code/LearnSomething/Cmake/build/CMakeFiles/edit_cache.dir
